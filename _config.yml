@@ -11,7 +11,7 @@ locale                   : "China"
 title                    : "山间游"
 name                     : &name "102202144傅钰"
 description              : &description "
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://among-the-mountain.github.io"
+url                      : https://among-the-mountain.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "among-the-mountain.github.io"
 
