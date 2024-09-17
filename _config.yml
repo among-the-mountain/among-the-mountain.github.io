@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "China"
+locale                   : "en-US"
 title                    : "山间游"
 name                     : &name "102202144傅钰"
 description              : &description "
@@ -20,7 +20,7 @@ repository               : "among-the-mountain.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "data.png"
+  avatar           : "data.PNG"
   name             : "102202144傅钰"
   pronouns         : "it" 
   bio              : "菜菜的大学生"
