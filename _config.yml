@@ -9,8 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "山间游"
+title_separator          : "-"
 name                     : &name "102202144傅钰"
-description              : &description "
+description              : &description""
 url                      : https://among-the-mountain.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "among-the-mountain.github.io"
