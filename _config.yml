@@ -21,7 +21,7 @@ repository               : "among-the-mountain.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "data.PNG"
+  avatar           : "image/data.PNG"
   name             : "102202144傅钰"
   pronouns         : "it" 
   bio              : "菜菜的大学生"
